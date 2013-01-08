@@ -1,14 +1,5 @@
-% This file was created with JabRef 2.9.1.
+% This file was created with JabRef 2.9.
 % Encoding: US-ASCII
-
-@ARTICLE{fgz,
-  author = {fgz},
-  title = {cghjcg},
-  journal = {gH},
-  owner = {Nives Mlakar},
-  quality = {1},
-  timestamp = {2013.01.08}
-}
 
 @BOOK{Gelman:2007aa,
   title = {Data Analysis Using Regression and Multilevel/Hierarchical Models},
